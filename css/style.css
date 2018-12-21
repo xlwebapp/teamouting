@@ -1,0 +1,10 @@
+body {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #eee;
+}
+#team_outing{
+	width: 350px;
+	margin: 30px auto;
+	max-width: 100%;
+}
